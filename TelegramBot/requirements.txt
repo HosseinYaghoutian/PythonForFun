@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+gtts
+gTTS
+pillow
+qrcode
